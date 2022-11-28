@@ -1,7 +1,7 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
 let accessToken;
-const clientId = "5499b13a37a54caa9fb4400ec6af9de7";
+const clientId = "/*insert your clientId here*/";
 const redirectURI = "http://localhost:3000/";
 
 const Spotify = {
